@@ -1,0 +1,19 @@
+classes:
+    - AllenKey
+    - Axis
+    - Bearing2
+    - Drill
+    - F20_20_B
+    - F20_20_G
+    - Housing
+    - M20
+    - M20_100
+    - M30
+    - Motor2
+    - S40_40_B
+    - S40_40_G
+    - Screwdriver
+    - Spacer
+    - Wrench
+    - container_blue
+    - container_red
